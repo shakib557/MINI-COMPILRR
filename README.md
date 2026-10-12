@@ -40,6 +40,10 @@ Required Python dependencies for the project
 
 Installation
 
+cd MainProject/Mini_Compiler
+python -m pip install ply
+python main.py
+
 Clone this repository:
 
 git clone https://github.com/shakib557/MINI-COMPILRR.git 
@@ -74,7 +78,7 @@ Improve documentation with execution screenshots.
 
 Author
 
-Shakib Mostafa Jamal
+SHAKIB MOSTAFA JAMAL
 
 Computer Science and Technology
 
